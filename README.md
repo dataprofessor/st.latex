@@ -1,9 +1,9 @@
-# st-latex
+# st.latex
 
 `st.latex` display mathematical expressions formatted as LaTeX.
 
 ## Demo app
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st-latex/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st.latex/)
 
 ## Code
 Contents of the `streamlit_app.py` file:
